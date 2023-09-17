@@ -1167,7 +1167,7 @@ textarea,
   transition: all 0.5s ease-in-out;
 }
 .theme-dark .container-YkUktl:before {
-  content: "ClearVision";
+  content: "ClearVisionAAA";
   right: 50%;
   text-align: right;
   transform: translateX(50%);
